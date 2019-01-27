@@ -1,0 +1,12 @@
+6 UI pages
+1. home page
+2. List of companies
+3. Company Page
+4. About Company
+5. Previous question papers
+6. List of people who have been to that particular company training.
+
+Add ons
+1. About us!
+2. About me!
+  - contains biodata and photo
